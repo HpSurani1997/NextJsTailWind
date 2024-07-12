@@ -1,4 +1,4 @@
-# Blue Zones Webapp
+# Webapp
 
 This is a [Next.js](https://nextjs.org) app, using the [Tailwind CSS](https://tailwindcss.com) framework.
 
